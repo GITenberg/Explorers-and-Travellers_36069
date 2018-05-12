@@ -1,0 +1,42 @@
+_repo: Explorers-and-Travellers_36069
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Greely, A. W. (Adolphus Washington)
+    aliases:
+    - Greely, Adolphus W. (Adolphus Washington)
+    - Greely, Adolphus Washington
+    birthdate: 1844
+    deathdate: 1935
+    gutenberg_agent_id: '38068'
+    url: http://www.gutenberg.org/2009/agents/38068
+    wikipedia: http://en.wikipedia.org/wiki/Adolphus_Greely
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36069'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Travelers'
+- !lcc 'G'
+- !lcsh 'Explorers'
+tableOfContents: Louis Joliet, re-discoverer of the Mississippi -- Peter Le Moyne,
+  sieur d'Iberville, founder of Louisiana -- Jonathan Carver, the explorer of Minnesota
+  -- Captain Robert Gray, the discoverer of the Columbia river -- Captain Meriwether
+  Lewis and Lieut. William Clark, first trans-continental explorers of the United
+  States -- Zebulon Montgomery Pike, explorer of the sources of the Mississippi and
+  Arkansas rivers -- Charles Wilkes, the discoverer of the Antartic continent -- John
+  Charles Frémont, the pathfinder -- Elisha Kent Kane, Arctic explorer -- Isaac Israel
+  Hayes, and the open Polar Sea -- Charles Francis Hall, and the North Pole -- George
+  Washington De Long, and the Siberian Arctic Ocean -- Paul Belloni Du Chaillu, discoverer
+  of the dwarfs and gorillas -- Stanley Africanus and the Congo Free State.
+title: Explorers and Travellers
+url: http://www.gutenberg.org/ebooks/36069
